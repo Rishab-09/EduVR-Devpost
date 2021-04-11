@@ -9,7 +9,7 @@ Noise
 ## Installation
 After installing Python 3.x go to your terminal and use these commands
 pip install Ursina
-pip install Noise
+pip install perlin-noise
 ## Launching
 Run the EduVR.py by double clicking or by typing in the cmd prompt
 python EduVR.py
