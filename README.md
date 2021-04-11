@@ -5,7 +5,7 @@ This repo makes available to people an entire Virtual world that they can build 
 ## Requirements
 Python 3.x
 Ursina Library
-Noise
+perlin-noise
 ## Installation
 After installing Python 3.x go to your terminal and use these commands
 pip install Ursina
